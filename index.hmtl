@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unblocked Free Games</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Unblocked Free Games</h1>
+        <p>Your source for fun, free, and legal online games.</p>
+    </header>
+
+    <main>
+        <section id="games-list">
+            <h2>Top Games</h2>
+            <ul>
+                <li><a href="https://example.com/game1" target="_blank">Game 1</a></li>
+                <li><a href="https://example.com/game2" target="_blank">Game 2</a></li>
+                <li><a href="https://example.com/game3" target="_blank">Game 3</a></li>
+                <li><a href="https://example.com/game4" target="_blank">Game 4</a></li>
+            </ul>
+        </section>
+
+        <section id="search">
+            <h2>Search for More Games</h2>
+            <input type="text" id="search-box" placeholder="Search games...">
+            <button onclick="searchGames()">Search</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>Created by Your Name. All games listed are free and unblocked.</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
